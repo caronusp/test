@@ -25,7 +25,6 @@
     Bom dia <%= nome %> !!
 
   <li><a href="./insert.jsp">Inserir Contato</a>
-  <li><a href="./update.jsp">Editar Contato</a>
   <li><a href="./remove.jsp">Remover Contato</a>
   <li><a href="./search.jsp">Pesquisar Contato</a>
     </body>
